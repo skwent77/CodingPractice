@@ -15,6 +15,10 @@ int[] weight = new int[N];
 int[] minEdge = new int[N] 
 (1차원 배열을 사용하여 memoization)
 prioritiyQueue
-add() :  　우선순위 큐에 원소를 추가. 큐가 꽉 찬 경우 에러 발생
+add() :  　우선순위 큐에 원소를 추가. 
+
+큐가 꽉 찬 경우 에러 발생
 </br>
-offer :    우선순위 큐에 원소를 추가. 값 추가 실패 시 false를 반환
+offer :    우선순위 큐에 원소를 추가. 
+
+값 추가 실패 시 false를 반환
