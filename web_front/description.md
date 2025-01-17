@@ -13,3 +13,5 @@ css selector 질문 나오면 문제에 답이 있음. selector
     - b) `padding: 10px;`
     - c) `border: 10px;`
     - d) `spacing: 10px;`
+3. JS와 HTML 기능 차이
+   HTML이 웹사이트의 구조를 제공하고 CSS가 웹사이트의 외관을 제어하는 반면, 자바스크립트는 웹 페이지의 다양한 요소들의 동작을 변경하는 도구
